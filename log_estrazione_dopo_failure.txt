@@ -1,0 +1,1635 @@
+Avvio estrazione PII (1667 blocchi rimanenti)...
+   [cache] write=3079 read=0 input=327 output=1786
+Progresso: 1/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=1447
+Progresso: 2/1667 blocchi completati.
+   [cache] write=0 read=3079 input=353 output=1091
+Progresso: 3/1667 blocchi completati.
+   [cache] write=0 read=3079 input=354 output=1072
+   [i] [Blocco 4/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 4/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=1005
+Progresso: 5/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=1027
+   [i] [Blocco 6/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 6/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=1107
+Progresso: 7/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=1187
+Progresso: 8/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=1214
+Progresso: 9/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=1064
+Progresso: 10/1667 blocchi completati.
+   [cache] write=0 read=3079 input=342 output=987
+Progresso: 11/1667 blocchi completati.
+   [cache] write=0 read=3079 input=347 output=1248
+Progresso: 12/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=978
+Progresso: 13/1667 blocchi completati.
+   [cache] write=0 read=3079 input=314 output=1189
+Progresso: 14/1667 blocchi completati.
+   [cache] write=0 read=3079 input=349 output=1032
+Progresso: 15/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=1021
+Progresso: 16/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=1203
+   [i] [Blocco 17/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 17/1667 blocchi completati.
+   [cache] write=0 read=3079 input=342 output=903
+Progresso: 18/1667 blocchi completati.
+   [cache] write=0 read=3079 input=337 output=961
+   [i] [Blocco 19/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 19/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=1000
+   [i] [Blocco 20/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 20/1667 blocchi completati.
+   [cache] write=0 read=3079 input=319 output=1083
+   [i] [Blocco 21/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 21/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=947
+   [i] [Blocco 22/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 22/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=969
+Progresso: 23/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=939
+   [i] [Blocco 24/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 24/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=1388
+Progresso: 25/1667 blocchi completati.
+   [cache] write=0 read=3079 input=337 output=1045
+Progresso: 26/1667 blocchi completati.
+   [cache] write=0 read=3079 input=347 output=920
+Progresso: 27/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=1056
+Progresso: 28/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=923
+Progresso: 29/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=2119
+   [i] [Blocco 30/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 30/1667 blocchi completati.
+   [cache] write=0 read=3079 input=312 output=1327
+   [!] [Blocco 31/1667] quasi vuoto (16/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | # 900: lucia=n yabdon=c(riconoscibile) jesus=ab ina=x
+       | 900|lucia|yabdon|||jesus
+       | # 901: basia=n 82=dt stcrossroad=ab(x, non riconoscibile) x
+       | 901|basia||--/--/1982|||
+       | # 902: chris=n rapper=ab brown=c(cognome comune)
+       | 902|chris|brown|||rapper
+       | # 903: elizabeth=n 1886=dt(primo anno plausibile) 1588=x
+       | 903|elizabeth||--/--/1886|||
+       | # 904: zackary=n justin=ab gee=x fuck=x
+       | 904|zackary||||justin
+       | # 905: slowly=x hand=x 24012007=dt
+       | 905||||--/--/2007|||
+       | 905|||24/01/2007|||
+       | # 905 correzione: slowly=x hand=x 2401
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=312 output=1279
+   [i] [Blocco 31/1667] 16/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 31/1667 blocchi completati.
+   [cache] write=0 read=3079 input=299 output=1066
+Progresso: 32/1667 blocchi completati.
+   [cache] write=0 read=3079 input=287 output=795
+   [i] [Blocco 33/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 33/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=992
+Progresso: 34/1667 blocchi completati.
+   [cache] write=0 read=3079 input=318 output=1244
+Progresso: 35/1667 blocchi completati.
+   [cache] write=0 read=3079 input=314 output=1024
+Progresso: 36/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=901
+   [i] [Blocco 37/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 37/1667 blocchi completati.
+   [cache] write=0 read=3079 input=358 output=1034
+   [i] [Blocco 38/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 38/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=1018
+Progresso: 39/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=1366
+Progresso: 40/1667 blocchi completati.
+   [cache] write=0 read=3079 input=345 output=865
+   [i] [Blocco 41/1667] 5/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 41/1667 blocchi completati.
+   [cache] write=0 read=3079 input=319 output=1061
+Progresso: 42/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=964
+Progresso: 43/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=933
+   [i] [Blocco 44/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 44/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=1119
+Progresso: 45/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=1089
+Progresso: 46/1667 blocchi completati.
+   [cache] write=0 read=3079 input=310 output=1083
+Progresso: 47/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=1061
+   [i] [Blocco 48/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 48/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=873
+Progresso: 49/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=945
+   [i] [Blocco 50/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 50/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=854
+Progresso: 51/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=1015
+Progresso: 52/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=845
+Progresso: 53/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=1162
+   [i] [Blocco 54/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 54/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=956
+Progresso: 55/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=890
+Progresso: 56/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=921
+Progresso: 57/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=907
+Progresso: 58/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=924
+Progresso: 59/1667 blocchi completati.
+   [cache] write=0 read=3079 input=305 output=899
+   [i] [Blocco 60/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 60/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=1399
+   [i] [Blocco 61/1667] 13/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 61/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=879
+Progresso: 62/1667 blocchi completati.
+   [cache] write=0 read=3079 input=342 output=929
+   [i] [Blocco 63/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 63/1667 blocchi completati.
+   [cache] write=0 read=3079 input=318 output=872
+   [i] [Blocco 64/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 64/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=1170
+   [i] [Blocco 65/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 65/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=923
+   [i] [Blocco 66/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 66/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=941
+   [i] [Blocco 67/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 67/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=1021
+   [i] [Blocco 68/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 68/1667 blocchi completati.
+   [cache] write=0 read=3079 input=361 output=2713
+Progresso: 69/1667 blocchi completati.
+   [cache] write=0 read=3079 input=347 output=1270
+   [i] [Blocco 70/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 70/1667 blocchi completati.
+   [cache] write=0 read=3079 input=319 output=1108
+Progresso: 71/1667 blocchi completati.
+   [cache] write=0 read=3079 input=339 output=1570
+Progresso: 72/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=851
+   [i] [Blocco 73/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 73/1667 blocchi completati.
+   [cache] write=0 read=3079 input=350 output=892
+   [i] [Blocco 74/1667] 12/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 74/1667 blocchi completati.
+   [cache] write=0 read=3079 input=352 output=927
+Progresso: 75/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=1124
+Progresso: 76/1667 blocchi completati.
+   [cache] write=0 read=3079 input=353 output=1027
+Progresso: 77/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=897
+   [i] [Blocco 78/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 78/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=874
+Progresso: 79/1667 blocchi completati.
+   [cache] write=0 read=3079 input=314 output=858
+Progresso: 80/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=851
+Progresso: 81/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=910
+Progresso: 82/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=959
+   [i] [Blocco 83/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 83/1667 blocchi completati.
+   [cache] write=0 read=3079 input=298 output=851
+   [i] [Blocco 84/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 84/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=1314
+Progresso: 85/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=880
+   [i] [Blocco 86/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 86/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=870
+   [i] [Blocco 87/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 87/1667 blocchi completati.
+   [cache] write=0 read=3079 input=309 output=885
+   [i] [Blocco 88/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 88/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=971
+Progresso: 89/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=873
+Progresso: 90/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=837
+Progresso: 91/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=1625
+   [i] [Blocco 92/1667] 9/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 92/1667 blocchi completati.
+   [cache] write=0 read=3079 input=339 output=1048
+   [i] [Blocco 93/1667] 9/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 93/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=904
+Progresso: 94/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=1055
+Progresso: 95/1667 blocchi completati.
+   [cache] write=0 read=3079 input=318 output=998
+   [i] [Blocco 96/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 96/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=962
+   [i] [Blocco 97/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 97/1667 blocchi completati.
+   [cache] write=0 read=3079 input=367 output=1161
+Progresso: 98/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=903
+Progresso: 99/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=836
+   [i] [Blocco 100/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 100/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=967
+Progresso: 101/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=1762
+Progresso: 102/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=847
+   [i] [Blocco 103/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 103/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=1023
+Progresso: 104/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=925
+   [i] [Blocco 105/1667] 9/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 105/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=1333
+   [i] [Blocco 106/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 106/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=1106
+Progresso: 107/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=901
+   [i] [Blocco 108/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 108/1667 blocchi completati.
+   [cache] write=0 read=3079 input=302 output=989
+Progresso: 109/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=946
+Progresso: 110/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=864
+Progresso: 111/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=1012
+Progresso: 112/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=909
+   [i] [Blocco 113/1667] 8/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 113/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=932
+   [i] [Blocco 114/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 114/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=916
+Progresso: 115/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=1410
+Progresso: 116/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=1123
+   [i] [Blocco 117/1667] 10/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 117/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=995
+Progresso: 118/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=1037
+   [i] [Blocco 119/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 119/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=934
+Progresso: 120/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=979
+   [i] [Blocco 121/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 121/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=1059
+Progresso: 122/1667 blocchi completati.
+   [cache] write=0 read=3079 input=314 output=844
+Progresso: 123/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=805
+Progresso: 124/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=1937
+   [i] [Blocco 125/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 125/1667 blocchi completati.
+   [cache] write=0 read=3079 input=330 output=1322
+   [i] [Blocco 126/1667] 14/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 126/1667 blocchi completati.
+   [cache] write=0 read=3079 input=306 output=1715
+   [i] [Blocco 127/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 127/1667 blocchi completati.
+   [cache] write=0 read=3079 input=313 output=864
+   [i] [Blocco 128/1667] 5/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 128/1667 blocchi completati.
+   [cache] write=0 read=3079 input=358 output=1214
+Progresso: 129/1667 blocchi completati.
+   [cache] write=0 read=3079 input=347 output=1031
+   [i] [Blocco 130/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 130/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=1014
+   [i] [Blocco 131/1667] 8/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 131/1667 blocchi completati.
+   [cache] write=0 read=3079 input=314 output=829
+Progresso: 132/1667 blocchi completati.
+   [cache] write=0 read=3079 input=305 output=968
+   [i] [Blocco 133/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 133/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=1082
+   [i] [Blocco 134/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 134/1667 blocchi completati.
+   [cache] write=0 read=3079 input=350 output=1066
+   [i] [Blocco 135/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 135/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=1086
+Progresso: 136/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=924
+Progresso: 137/1667 blocchi completati.
+   [cache] write=0 read=3079 input=347 output=919
+   [i] [Blocco 138/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 138/1667 blocchi completati.
+   [cache] write=0 read=3079 input=374 output=1066
+   [i] [Blocco 139/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 139/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=873
+   [i] [Blocco 140/1667] 8/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 140/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=864
+   [i] [Blocco 141/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 141/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=1219
+   [i] [Blocco 142/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 142/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=903
+Progresso: 143/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=1105
+Progresso: 144/1667 blocchi completati.
+   [cache] write=0 read=3079 input=358 output=1204
+Progresso: 145/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=1329
+Progresso: 146/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=1563
+   [i] [Blocco 147/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 147/1667 blocchi completati.
+   [cache] write=0 read=3079 input=359 output=1409
+Progresso: 148/1667 blocchi completati.
+   [cache] write=0 read=3079 input=311 output=1289
+   [i] [Blocco 149/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 149/1667 blocchi completati.
+   [cache] write=0 read=3079 input=330 output=984
+Progresso: 150/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=1033
+Progresso: 151/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=1511
+   [i] [Blocco 152/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 152/1667 blocchi completati.
+   [cache] write=0 read=3079 input=339 output=931
+   [i] [Blocco 153/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 153/1667 blocchi completati.
+   [cache] write=0 read=3079 input=318 output=876
+Progresso: 154/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=882
+Progresso: 155/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=997
+Progresso: 156/1667 blocchi completati.
+   [cache] write=0 read=3079 input=310 output=943
+   [i] [Blocco 157/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 157/1667 blocchi completati.
+   [cache] write=0 read=3079 input=305 output=903
+   [i] [Blocco 158/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 158/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=942
+   [i] [Blocco 159/1667] 11/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 159/1667 blocchi completati.
+   [cache] write=0 read=3079 input=330 output=907
+Progresso: 160/1667 blocchi completati.
+   [cache] write=0 read=3079 input=315 output=857
+Progresso: 161/1667 blocchi completati.
+   [cache] write=0 read=3079 input=353 output=966
+   [i] [Blocco 162/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 162/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=875
+   [!] [Blocco 163/1667] quasi vuoto (18/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | # 4860: sarita=n 1526=x
+       | 4860|sarita|||||
+       | # 4861: eksiketek=x 1990=dt
+       | 4861||||--/--/1990||
+       | # 4862: cristopher=n 04=dt
+       | 4862|cristopher||--/--/2004|||
+       | # 4863: tlvir=x virvin=x jonathan=n (solo nome riconoscibile)
+       | 4863|jonathan|||||
+       | # 4864: nephew=x kian=n higgs=c 1=x
+       | 4864|kian|higgs||||
+       | # 4865: mishalska=x 19=dt
+       | 4865||||--/--/2019|||
+       | # 4866: logan=n lip=x 15=dt
+       | 4866|logan||--/--/2015|||
+       | # 4867: hohenstaufen=x 13579=ab
+       | 4867|||||13579
+       | # 4868: casey=n boone=c
+       | 4868|casey|boone||||
+       | # 4869: tianah=n sher
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=329 output=807
+   [i] [Blocco 163/1667] 16/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 163/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=1675
+   [i] [Blocco 164/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 164/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=899
+Progresso: 165/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=920
+   [i] [Blocco 166/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 166/1667 blocchi completati.
+   [cache] write=0 read=3079 input=352 output=964
+   [i] [Blocco 167/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 167/1667 blocchi completati.
+   [cache] write=0 read=3079 input=309 output=865
+Progresso: 168/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=1166
+Progresso: 169/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=946
+Progresso: 170/1667 blocchi completati.
+   [cache] write=0 read=3079 input=347 output=1018
+   [i] [Blocco 171/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 171/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=885
+Progresso: 172/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=1244
+Progresso: 173/1667 blocchi completati.
+   [cache] write=0 read=3079 input=370 output=983
+   [i] [Blocco 174/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 174/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=970
+Progresso: 175/1667 blocchi completati.
+   [cache] write=0 read=3079 input=339 output=1838
+   [i] [Blocco 176/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 176/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=917
+   [i] [Blocco 177/1667] 10/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 177/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=875
+Progresso: 178/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=1025
+   [i] [Blocco 179/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 179/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=871
+   [i] [Blocco 180/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 180/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=1272
+Progresso: 181/1667 blocchi completati.
+   [cache] write=0 read=3079 input=312 output=969
+Progresso: 182/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=942
+Progresso: 183/1667 blocchi completati.
+   [cache] write=0 read=3079 input=364 output=896
+Progresso: 184/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=923
+   [i] [Blocco 185/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 185/1667 blocchi completati.
+   [cache] write=0 read=3079 input=305 output=863
+   [i] [Blocco 186/1667] 5/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 186/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=1388
+   [i] [Blocco 187/1667] 8/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 187/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=859
+   [i] [Blocco 188/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 188/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=1012
+Progresso: 189/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=873
+   [i] [Blocco 190/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 190/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=1012
+Progresso: 191/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=1020
+Progresso: 192/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=1026
+   [i] [Blocco 193/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 193/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=1069
+Progresso: 194/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=1144
+Progresso: 195/1667 blocchi completati.
+   [cache] write=0 read=3079 input=339 output=915
+Progresso: 196/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=1060
+Progresso: 197/1667 blocchi completati.
+   [cache] write=0 read=3079 input=314 output=1247
+   [i] [Blocco 198/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 198/1667 blocchi completati.
+   [cache] write=0 read=3079 input=342 output=937
+Progresso: 199/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=1007
+   [i] [Blocco 200/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 200/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=1022
+Progresso: 201/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=1576
+   [i] [Blocco 202/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 202/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=891
+Progresso: 203/1667 blocchi completati.
+   [cache] write=0 read=3079 input=313 output=1019
+   [i] [Blocco 204/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 204/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=843
+Progresso: 205/1667 blocchi completati.
+   [cache] write=0 read=3079 input=352 output=1060
+Progresso: 206/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=871
+Progresso: 207/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=938
+Progresso: 208/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=791
+   [i] [Blocco 209/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 209/1667 blocchi completati.
+   [cache] write=0 read=3079 input=314 output=1001
+Progresso: 210/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=825
+Progresso: 211/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=909
+   [i] [Blocco 212/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 212/1667 blocchi completati.
+   [cache] write=0 read=3079 input=371 output=1075
+   [i] [Blocco 213/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 213/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=1188
+   [i] [Blocco 214/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 214/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=995
+Progresso: 215/1667 blocchi completati.
+   [cache] write=0 read=3079 input=339 output=994
+   [i] [Blocco 216/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 216/1667 blocchi completati.
+   [cache] write=0 read=3079 input=354 output=1210
+   [i] [Blocco 217/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 217/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=919
+   [i] [Blocco 218/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 218/1667 blocchi completati.
+   [cache] write=0 read=3079 input=345 output=910
+Progresso: 219/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=1666
+   [i] [Blocco 220/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 220/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=1191
+Progresso: 221/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=833
+Progresso: 222/1667 blocchi completati.
+   [cache] write=0 read=3079 input=349 output=932
+Progresso: 223/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=919
+   [i] [Blocco 224/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 224/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=906
+   [i] [Blocco 225/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 225/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=897
+Progresso: 226/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=907
+Progresso: 227/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=964
+   [i] [Blocco 228/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 228/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=1536
+Progresso: 229/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=943
+   [i] [Blocco 230/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 230/1667 blocchi completati.
+   [cache] write=0 read=3079 input=314 output=1258
+   [i] [Blocco 231/1667] 11/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 231/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=1129
+   [!] [Blocco 232/1667] quasi vuoto (16/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | I'll process each password systematically.
+       |
+       | # 6930: raduica=n drago=x cristian=ab (3 nomi, nessuna vera abitudine)
+       | 6930|raduica||||||cristian
+       | # 6931: diax=x diana=n 24644370=x (numero non data valida)
+       | 6931|diana|||||
+       | # 6932: chick=ab 63=dt
+       | 6932|||--/--/1963||chick
+       | # 6933: tania=n veloso=c 1997=dt
+       | 6933|tania|veloso|--/--/1997|||
+       | # 6934: jordison=ab(batterista Slipknot) 30046575=x (non data valida: mese 04 ok, giorno 30 ok, ma 6575 anno non valido)
+       | 6934|||||jordison
+       | # 6935: aaron=ab(loves) dutton=
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=317 output=951
+Progresso: 232/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=2602
+   [i] [Blocco 233/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 233/1667 blocchi completati.
+   [cache] write=0 read=3079 input=339 output=1560
+Progresso: 234/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=885
+Progresso: 235/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=910
+   [i] [Blocco 236/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 236/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=1334
+Progresso: 237/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=989
+Progresso: 238/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=1365
+Progresso: 239/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=989
+   [i] [Blocco 240/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 240/1667 blocchi completati.
+   [cache] write=0 read=3079 input=342 output=1235
+   [i] [Blocco 241/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 241/1667 blocchi completati.
+   [cache] write=0 read=3079 input=353 output=991
+Progresso: 242/1667 blocchi completati.
+   [cache] write=0 read=3079 input=319 output=972
+   [i] [Blocco 243/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 243/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=1043
+Progresso: 244/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=977
+   [i] [Blocco 245/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 245/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=923
+   [i] [Blocco 246/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 246/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=882
+Progresso: 247/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=1546
+Progresso: 248/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=875
+   [i] [Blocco 249/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 249/1667 blocchi completati.
+   [cache] write=0 read=3079 input=342 output=1075
+   [i] [Blocco 250/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 250/1667 blocchi completati.
+   [cache] write=0 read=3079 input=347 output=862
+   [i] [Blocco 251/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 251/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=1021
+Progresso: 252/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=874
+Progresso: 253/1667 blocchi completati.
+   [cache] write=0 read=3079 input=349 output=930
+Progresso: 254/1667 blocchi completati.
+   [cache] write=0 read=3079 input=337 output=1032
+   [i] [Blocco 255/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 255/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=893
+Progresso: 256/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=1226
+   [i] [Blocco 257/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 257/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=916
+Progresso: 258/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=1077
+   [i] [Blocco 259/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 259/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=937
+Progresso: 260/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=971
+Progresso: 261/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=871
+Progresso: 262/1667 blocchi completati.
+   [cache] write=0 read=3079 input=311 output=1074
+   [!] [Blocco 263/1667] quasi vuoto (19/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | I'll process each password systematically.
+       |
+       | # 7860: sam=n 2004121=x(ambigua)
+       | 7860|sam|||||
+       | # 7861: dingdong=x lee=c 2007=dt
+       | 7861||lee|--/--/2007|||
+       | # 7862: katie=n 1125=x(ambigua)
+       | 7862|katie|||||
+       | # 7863: vakatau=c 90=dt (vakatau=cognome polinesiano, nessun nome)
+       | 7863|||--/--/1990|||
+       | # 7864: denisse=n 204537298=x(non data valida)
+       | 7864|denisse|||||
+       | # 7865: ryan=n scot=c
+       | 7865|ryan|scot||||
+       | # 7866: christian=n 05022005=x->050220=x 0502200=x (ambigua, non leggibile)
+       | 7866|christian|||||
+       | # 7867: mar=n
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=311 output=1154
+   [i] [Blocco 263/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 263/1667 blocchi completati.
+   [cache] write=0 read=3079 input=347 output=1106
+Progresso: 264/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=868
+   [i] [Blocco 265/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 265/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=946
+   [i] [Blocco 266/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 266/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=911
+Progresso: 267/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=1165
+Progresso: 268/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=892
+   [i] [Blocco 269/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 269/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=1422
+Progresso: 270/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=883
+   [i] [Blocco 271/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 271/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=926
+Progresso: 272/1667 blocchi completati.
+   [cache] write=0 read=3079 input=347 output=915
+Progresso: 273/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=839
+   [i] [Blocco 274/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 274/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=1249
+   [i] [Blocco 275/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 275/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=928
+   [i] [Blocco 276/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 276/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=887
+Progresso: 277/1667 blocchi completati.
+   [cache] write=0 read=3079 input=319 output=1110
+Progresso: 278/1667 blocchi completati.
+   [cache] write=0 read=3079 input=319 output=946
+Progresso: 279/1667 blocchi completati.
+   [cache] write=0 read=3079 input=337 output=977
+   [i] [Blocco 280/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 280/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=853
+   [i] [Blocco 281/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 281/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=1016
+Progresso: 282/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=927
+Progresso: 283/1667 blocchi completati.
+   [cache] write=0 read=3079 input=304 output=863
+Progresso: 284/1667 blocchi completati.
+   [cache] write=0 read=3079 input=313 output=930
+   [i] [Blocco 285/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 285/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=869
+   [i] [Blocco 286/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 286/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=906
+   [i] [Blocco 287/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 287/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=870
+Progresso: 288/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=873
+Progresso: 289/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=954
+   [i] [Blocco 290/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 290/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=1001
+Progresso: 291/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=1414
+Progresso: 292/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=1072
+   [i] [Blocco 293/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 293/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=846
+   [i] [Blocco 294/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 294/1667 blocchi completati.
+   [cache] write=0 read=3079 input=337 output=889
+Progresso: 295/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=881
+Progresso: 296/1667 blocchi completati.
+   [cache] write=0 read=3079 input=348 output=976
+   [i] [Blocco 297/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 297/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=1012
+   [i] [Blocco 298/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 298/1667 blocchi completati.
+   [cache] write=0 read=3079 input=313 output=857
+Progresso: 299/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=1090
+   [i] [Blocco 300/1667] 11/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 300/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=1178
+Progresso: 301/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=2081
+   [i] [Blocco 302/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 302/1667 blocchi completati.
+   [cache] write=0 read=3079 input=347 output=972
+   [i] [Blocco 303/1667] 11/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 303/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=885
+Progresso: 304/1667 blocchi completati.
+   [cache] write=0 read=3079 input=339 output=917
+Progresso: 305/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=966
+   [i] [Blocco 306/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 306/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=1015
+   [i] [Blocco 307/1667] 10/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 307/1667 blocchi completati.
+   [cache] write=0 read=3079 input=319 output=882
+   [i] [Blocco 308/1667] 12/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 308/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=977
+Progresso: 309/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=1089
+   [i] [Blocco 310/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 310/1667 blocchi completati.
+   [cache] write=0 read=3079 input=351 output=967
+   [i] [Blocco 311/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 311/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=1082
+   [i] [Blocco 312/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 312/1667 blocchi completati.
+   [cache] write=0 read=3079 input=355 output=1061
+Progresso: 313/1667 blocchi completati.
+   [cache] write=0 read=3079 input=330 output=844
+   [i] [Blocco 314/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 314/1667 blocchi completati.
+   [cache] write=0 read=3079 input=314 output=1036
+   [i] [Blocco 315/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 315/1667 blocchi completati.
+   [cache] write=0 read=3079 input=345 output=930
+Progresso: 316/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=1016
+Progresso: 317/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=944
+   [i] [Blocco 318/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 318/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=1111
+Progresso: 319/1667 blocchi completati.
+   [cache] write=0 read=3079 input=351 output=1021
+   [i] [Blocco 320/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 320/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=1263
+Progresso: 321/1667 blocchi completati.
+   [cache] write=0 read=3079 input=319 output=982
+   [i] [Blocco 322/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 322/1667 blocchi completati.
+   [cache] write=0 read=3079 input=359 output=834
+   [i] [Blocco 323/1667] 5/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 323/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=1334
+   [i] [Blocco 324/1667] 12/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 324/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=965
+Progresso: 325/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=982
+Progresso: 326/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=1046
+Progresso: 327/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=956
+Progresso: 328/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=925
+   [i] [Blocco 329/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 329/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=979
+   [i] [Blocco 330/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 330/1667 blocchi completati.
+   [cache] write=0 read=3079 input=315 output=1000
+Progresso: 331/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=1120
+Progresso: 332/1667 blocchi completati.
+   [cache] write=0 read=3079 input=339 output=1049
+   [i] [Blocco 333/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 333/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=2106
+Progresso: 334/1667 blocchi completati.
+   [cache] write=0 read=3079 input=311 output=917
+Progresso: 335/1667 blocchi completati.
+   [cache] write=0 read=3079 input=345 output=1395
+   [i] [Blocco 336/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 336/1667 blocchi completati.
+   [cache] write=0 read=3079 input=339 output=872
+Progresso: 337/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=1071
+Progresso: 338/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=968
+Progresso: 339/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=965
+Progresso: 340/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=3718
+   [i] [Blocco 341/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 341/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=932
+   [i] [Blocco 342/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 342/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=1098
+Progresso: 343/1667 blocchi completati.
+   [cache] write=0 read=3079 input=350 output=904
+Progresso: 344/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=886
+   [i] [Blocco 345/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 345/1667 blocchi completati.
+   [cache] write=0 read=3079 input=350 output=816
+Progresso: 346/1667 blocchi completati.
+   [cache] write=0 read=3079 input=342 output=877
+Progresso: 347/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=883
+   [i] [Blocco 348/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 348/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=928
+   [i] [Blocco 349/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 349/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=4000
+   [i] [Blocco 350/1667] Risposta al limite di max_tokens: alcune righe potrebbero mancare (salvate vuote).
+   [i] [Blocco 350/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 350/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=914
+Progresso: 351/1667 blocchi completati.
+   [cache] write=0 read=3079 input=339 output=1111
+   [i] [Blocco 352/1667] 9/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 352/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=1271
+Progresso: 353/1667 blocchi completati.
+   [cache] write=0 read=3079 input=309 output=837
+   [i] [Blocco 354/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 354/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=1208
+Progresso: 355/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=1343
+   [i] [Blocco 356/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 356/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=849
+   [i] [Blocco 357/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 357/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=1402
+Progresso: 358/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=846
+Progresso: 359/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=1073
+Progresso: 360/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=921
+   [i] [Blocco 361/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 361/1667 blocchi completati.
+   [cache] write=0 read=3079 input=303 output=923
+   [i] [Blocco 362/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 362/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=871
+Progresso: 363/1667 blocchi completati.
+   [cache] write=0 read=3079 input=319 output=875
+   [i] [Blocco 364/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 364/1667 blocchi completati.
+   [cache] write=0 read=3079 input=345 output=1145
+Progresso: 365/1667 blocchi completati.
+   [cache] write=0 read=3079 input=337 output=1124
+Progresso: 366/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=972
+Progresso: 367/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=1334
+Progresso: 368/1667 blocchi completati.
+   [cache] write=0 read=3079 input=337 output=896
+   [i] [Blocco 369/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 369/1667 blocchi completati.
+   [cache] write=0 read=3079 input=312 output=834
+   [i] [Blocco 370/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 370/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=904
+Progresso: 371/1667 blocchi completati.
+   [cache] write=0 read=3079 input=330 output=963
+Progresso: 372/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=1099
+   [i] [Blocco 373/1667] 8/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 373/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=1152
+Progresso: 374/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=1200
+   [i] [Blocco 375/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 375/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=896
+   [i] [Blocco 376/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 376/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=920
+Progresso: 377/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=857
+   [i] [Blocco 378/1667] 5/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 378/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=1107
+   [i] [Blocco 379/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 379/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=987
+   [i] [Blocco 380/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 380/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=803
+   [i] [Blocco 381/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 381/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=1071
+Progresso: 382/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=882
+Progresso: 383/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=921
+   [i] [Blocco 384/1667] 10/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 384/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=907
+Progresso: 385/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=1120
+Progresso: 386/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=824
+   [i] [Blocco 387/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 387/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=855
+Progresso: 388/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=1042
+   [i] [Blocco 389/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 389/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=959
+Progresso: 390/1667 blocchi completati.
+   [cache] write=0 read=3079 input=314 output=968
+Progresso: 391/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=1140
+Progresso: 392/1667 blocchi completati.
+   [cache] write=0 read=3079 input=355 output=1198
+Progresso: 393/1667 blocchi completati.
+   [cache] write=0 read=3079 input=349 output=1207
+Progresso: 394/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=1555
+   [i] [Blocco 395/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 395/1667 blocchi completati.
+   [cache] write=0 read=3079 input=313 output=899
+   [i] [Blocco 396/1667] 5/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 396/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=979
+   [i] [Blocco 397/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 397/1667 blocchi completati.
+   [cache] write=0 read=3079 input=352 output=952
+Progresso: 398/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=815
+   [i] [Blocco 399/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 399/1667 blocchi completati.
+   [cache] write=0 read=3079 input=313 output=884
+Progresso: 400/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=1006
+   [i] [Blocco 401/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 401/1667 blocchi completati.
+   [cache] write=0 read=3079 input=348 output=986
+Progresso: 402/1667 blocchi completati.
+   [cache] write=0 read=3079 input=365 output=922
+Progresso: 403/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=975
+   [i] [Blocco 404/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 404/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=1555
+Progresso: 405/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=850
+   [i] [Blocco 406/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 406/1667 blocchi completati.
+   [cache] write=0 read=3079 input=352 output=895
+Progresso: 407/1667 blocchi completati.
+   [cache] write=0 read=3079 input=363 output=948
+   [i] [Blocco 408/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 408/1667 blocchi completati.
+   [cache] write=0 read=3079 input=310 output=1117
+   [i] [Blocco 409/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 409/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=969
+Progresso: 410/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=941
+   [i] [Blocco 411/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 411/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=1006
+   [i] [Blocco 412/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 412/1667 blocchi completati.
+   [cache] write=0 read=3079 input=342 output=918
+Progresso: 413/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=908
+Progresso: 414/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=895
+   [i] [Blocco 415/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 415/1667 blocchi completati.
+   [cache] write=0 read=3079 input=307 output=1085
+Progresso: 416/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=888
+   [i] [Blocco 417/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 417/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=866
+   [i] [Blocco 418/1667] 11/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 418/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=908
+   [i] [Blocco 419/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 419/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=1021
+   [i] [Blocco 420/1667] 8/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 420/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=1877
+   [!] [Blocco 421/1667] quasi vuoto (27/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | I'll process each password systematically.
+       |
+       | ```
+       | # 12600: chris=n palomba=c btinternet=az
+       | 12600|chris|palomba||btinternet|
+       | # 12601: louise=n conor=ab(luvsconor) 93=dt
+       | 12601|louise||--/--/1993||conor
+       | # 12602: tovillao=x ortiz=c(cognome-ez) miguel=n(secondo->ab) tovilla=x
+       | 12602||ortiz|||miguel
+       | # 12603: pepper=ab nell=x iot=x 07=dt(solo anno 2cifre->inizio, ma è prefisso tel?) elliott=x
+       | ```
+       | Rianalisi 12603: "07peppernelliot!" → 07=ambiguo (non anno plausibile da solo come anno), pepper=abitudine (co
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=334 output=887
+   [i] [Blocco 421/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 421/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=886
+   [i] [Blocco 422/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 422/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=890
+   [i] [Blocco 423/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 423/1667 blocchi completati.
+   [cache] write=0 read=3079 input=353 output=1069
+Progresso: 424/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=976
+   [i] [Blocco 425/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 425/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=1820
+   [!] [Blocco 426/1667] quasi vuoto (18/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | # 12750: fabian=n 2806=dt(28/06/--? ambiguo, solo 4 cifre non anno)
+       | 12750|fabian|||||
+       |
+       | Attendi — 2806: potrebbe essere 28/06 senza anno, oppure un numero casuale. 4 cifre, non un anno (1940-2012), né 2 cifre isolate. Non è una data riconoscibile -> vuoto.
+       |
+       | # 12750: fabian=n 2806=x
+       | 12750|fabian|||||
+       | # 12751: 21101993=dt(21/10/1993) 21111995=x(seconda data scartata)
+       | 12751|||21/10/1993|||
+       | # 12752: apolinar=n mora=c(ripetuto) mora=x
+       | 12752|apolinar|mora||||
+       | # 12753: tammika=n 95=dt cprocks=ab
+       | 12753|t
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=346 output=1264
+   [i] [Blocco 426/1667] 14/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 426/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=1079
+   [i] [Blocco 427/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 427/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=1019
+   [i] [Blocco 428/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 428/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=859
+   [i] [Blocco 429/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 429/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=1116
+   [i] [Blocco 430/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 430/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=1121
+   [i] [Blocco 431/1667] 13/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 431/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=1059
+   [i] [Blocco 432/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 432/1667 blocchi completati.
+   [cache] write=0 read=3079 input=337 output=1021
+   [i] [Blocco 433/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 433/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=1497
+   [i] [Blocco 434/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 434/1667 blocchi completati.
+   [cache] write=0 read=3079 input=345 output=1103
+Progresso: 435/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=933
+   [i] [Blocco 436/1667] 10/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 436/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=843
+   [i] [Blocco 437/1667] 6/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 437/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=1028
+Progresso: 438/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=890
+   [i] [Blocco 439/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 439/1667 blocchi completati.
+   [cache] write=0 read=3079 input=337 output=921
+   [i] [Blocco 440/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 440/1667 blocchi completati.
+   [cache] write=0 read=3079 input=350 output=2538
+Progresso: 441/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=894
+   [i] [Blocco 442/1667] 8/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 442/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=913
+   [i] [Blocco 443/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 443/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=990
+Progresso: 444/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=903
+   [i] [Blocco 445/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 445/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=925
+Progresso: 446/1667 blocchi completati.
+   [cache] write=0 read=3079 input=312 output=970
+Progresso: 447/1667 blocchi completati.
+   [cache] write=0 read=3079 input=307 output=978
+Progresso: 448/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=1398
+Progresso: 449/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=996
+   [i] [Blocco 450/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 450/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=1182
+Progresso: 451/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=912
+   [i] [Blocco 452/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 452/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=1085
+   [i] [Blocco 453/1667] 12/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 453/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=855
+   [i] [Blocco 454/1667] 9/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 454/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=979
+   [i] [Blocco 455/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 455/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=1156
+   [i] [Blocco 456/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 456/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=1165
+Progresso: 457/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=2479
+Progresso: 458/1667 blocchi completati.
+   [cache] write=0 read=3079 input=325 output=844
+Progresso: 459/1667 blocchi completati.
+   [cache] write=0 read=3079 input=362 output=867
+   [i] [Blocco 460/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 460/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=1089
+   [i] [Blocco 461/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 461/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=1023
+Progresso: 462/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=1284
+   [i] [Blocco 463/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 463/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=896
+Progresso: 464/1667 blocchi completati.
+   [cache] write=0 read=3079 input=318 output=861
+   [i] [Blocco 465/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 465/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=922
+Progresso: 466/1667 blocchi completati.
+   [cache] write=0 read=3079 input=321 output=840
+Progresso: 467/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=918
+   [i] [Blocco 468/1667] 10/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 468/1667 blocchi completati.
+   [cache] write=0 read=3079 input=345 output=953
+Progresso: 469/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=899
+   [i] [Blocco 470/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 470/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=979
+   [i] [Blocco 471/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 471/1667 blocchi completati.
+   [cache] write=0 read=3079 input=327 output=977
+   [i] [Blocco 472/1667] 12/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 472/1667 blocchi completati.
+   [cache] write=0 read=3079 input=349 output=1039
+Progresso: 473/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=907
+Progresso: 474/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=993
+   [i] [Blocco 475/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 475/1667 blocchi completati.
+   [cache] write=0 read=3079 input=323 output=1201
+   [i] [Blocco 476/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 476/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=1394
+Progresso: 477/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=899
+   [i] [Blocco 478/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 478/1667 blocchi completati.
+   [cache] write=0 read=3079 input=308 output=1046
+   [i] [Blocco 479/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 479/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=1055
+Progresso: 480/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=864
+Progresso: 481/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=893
+   [i] [Blocco 482/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 482/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=944
+   [i] [Blocco 483/1667] 5/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 483/1667 blocchi completati.
+   [cache] write=0 read=3079 input=312 output=1095
+   [!] [Blocco 484/1667] quasi vuoto (20/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | # 14490: federal=x suryl=x lorena=n (no cognome chiaro, federal=x)
+       | 14490|lorena|||||
+       | # 14491: jorge=n 52=dt
+       | 14491|jorge||--/--/1952|||
+       | # 14492: angaara=x lyberth=c 91=dt (lyberth cognome groenlandese, anga=x)
+       | 14492||lyberth|--/--/1991|||
+       | # 14493: jeng=n 1991=dt
+       | 14493|jeng||--/--/1991|||
+       | # 14494: claudia=n 918878734=x (non data valida)
+       | 14494|claudia|||||
+       | # 14495: locatelsi=c (cognome, variante locatelli/locatelse) 5658011=x
+       | 14495||locatelsi||||
+       | # 14496: nikki=n rachel=ab(loves)
+       | 14496|nikki||||rac
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=312 output=1154
+   [i] [Blocco 484/1667] 19/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 484/1667 blocchi completati.
+   [cache] write=0 read=3079 input=309 output=1160
+   [!] [Blocco 485/1667] quasi vuoto (17/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | # 14520: dimebag=ab(chitarrista) darrellance=x → darrell=x lance=x → dimebagdarrell=ab lance=x
+       | 14520||||dimebag
+       | # 14521: MAX=n 2002=dt
+       | 14521|max||--/--/2002||
+       | # 14522: argentina=ab 1983=dt 296=x
+       | 14522||||argentina
+       | # 14523: MELISSA=n SOLIS=c(medio) DIAZ=c(ultimo)
+       | 14523|melissa|diaz|||
+       | # 14524: robbiewilliams=ab teamo=x
+       | 14524||||robbiewilliams
+       | # 14525: sana=n 1973=dt
+       | 14525|sana||--/--/1973||
+       | # 14526: joshua=n ring=x charlie=ab jayden=x
+       | 14526|joshua|||charlie
+       | # 14527: zmnoor=n(noor) 1974=dt zm=x
+       | 14
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=309 output=2350
+Progresso: 485/1667 blocchi completati.
+   [cache] write=0 read=3079 input=337 output=882
+   [i] [Blocco 486/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 486/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=1032
+   [i] [Blocco 487/1667] 10/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 487/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=956
+   [i] [Blocco 488/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 488/1667 blocchi completati.
+   [cache] write=0 read=3079 input=362 output=863
+   [i] [Blocco 489/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 489/1667 blocchi completati.
+   [cache] write=0 read=3079 input=326 output=853
+Progresso: 490/1667 blocchi completati.
+   [cache] write=0 read=3079 input=331 output=871
+   [i] [Blocco 491/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 491/1667 blocchi completati.
+   [cache] write=0 read=3079 input=338 output=884
+Progresso: 492/1667 blocchi completati.
+   [cache] write=0 read=3079 input=343 output=2206
+   [i] [Blocco 493/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 493/1667 blocchi completati.
+   [cache] write=0 read=3079 input=354 output=1578
+   [i] [Blocco 494/1667] 10/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 494/1667 blocchi completati.
+   [cache] write=0 read=3079 input=304 output=820
+   [i] [Blocco 495/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 495/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=1529
+   [i] [Blocco 496/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 496/1667 blocchi completati.
+   [cache] write=0 read=3079 input=318 output=970
+   [i] [Blocco 497/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 497/1667 blocchi completati.
+   [cache] write=0 read=3079 input=345 output=887
+   [i] [Blocco 498/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 498/1667 blocchi completati.
+   [cache] write=0 read=3079 input=357 output=916
+   [i] [Blocco 499/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 499/1667 blocchi completati.
+   [cache] write=0 read=3079 input=320 output=1049
+Progresso: 500/1667 blocchi completati.
+   [cache] write=0 read=3079 input=332 output=829
+   [i] [Blocco 501/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 501/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=941
+   [i] [Blocco 502/1667] 5/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 502/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=1389
+   [i] [Blocco 503/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 503/1667 blocchi completati.
+   [cache] write=0 read=3079 input=345 output=968
+Progresso: 504/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=1051
+Progresso: 505/1667 blocchi completati.
+   [cache] write=0 read=3079 input=337 output=965
+   [i] [Blocco 506/1667] 11/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 506/1667 blocchi completati.
+   [cache] write=0 read=3079 input=329 output=883
+   [i] [Blocco 507/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 507/1667 blocchi completati.
+   [cache] write=0 read=3079 input=336 output=1902
+Progresso: 508/1667 blocchi completati.
+   [cache] write=0 read=3079 input=324 output=1020
+Progresso: 509/1667 blocchi completati.
+   [cache] write=0 read=3079 input=316 output=896
+Progresso: 510/1667 blocchi completati.
+   [cache] write=0 read=3079 input=351 output=1030
+   [i] [Blocco 511/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 511/1667 blocchi completati.
+   [cache] write=0 read=3079 input=351 output=988
+Progresso: 512/1667 blocchi completati.
+   [cache] write=0 read=3079 input=315 output=2938
+Progresso: 513/1667 blocchi completati.
+   [cache] write=0 read=3079 input=340 output=1026
+Progresso: 514/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=987
+   [i] [Blocco 515/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 515/1667 blocchi completati.
+   [cache] write=0 read=3079 input=305 output=1158
+Progresso: 516/1667 blocchi completati.
+   [cache] write=0 read=3079 input=344 output=964
+Progresso: 517/1667 blocchi completati.
+   [cache] write=0 read=3079 input=330 output=879
+   [i] [Blocco 518/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 518/1667 blocchi completati.
+   [cache] write=0 read=3079 input=328 output=891
+Progresso: 519/1667 blocchi completati.
+   [cache] write=0 read=3079 input=335 output=956
+   [i] [Blocco 520/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 520/1667 blocchi completati.
+   [cache] write=0 read=3079 input=334 output=970
+   [i] [Blocco 521/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 521/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=1145
+   [i] [Blocco 522/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 522/1667 blocchi completati.
+   [cache] write=0 read=3079 input=318 output=876
+Progresso: 523/1667 blocchi completati.
+   [cache] write=0 read=3079 input=346 output=1140
+Progresso: 524/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=1248
+   [i] [Blocco 525/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 525/1667 blocchi completati.
+   [cache] write=0 read=3079 input=347 output=1501
+   [i] [Blocco 526/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 526/1667 blocchi completati.
+   [cache] write=0 read=3079 input=333 output=1814
+   [i] [Blocco 527/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 527/1667 blocchi completati.
+   [cache] write=0 read=3079 input=341 output=995
+   [i] [Blocco 528/1667] 5/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 528/1667 blocchi completati.
+   [cache] write=0 read=3079 input=355 output=915
+   [i] [Blocco 529/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 529/1667 blocchi completati.
+   [cache] write=0 read=3079 input=318 output=996
+Progresso: 530/1667 blocchi completati.
+   [cache] write=0 read=3079 input=317 output=832
+Progresso: 531/1667 blocchi completati.
+   [cache] write=0 read=3079 input=280 output=796
+Progresso: 532/1667 blocchi completati.
+   [cache] write=0 read=3079 input=312 output=896
+   [i] [Blocco 533/1667] 10/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 533/1667 blocchi completati.
+   [cache] write=0 read=3079 input=298 output=741
+   [!] [Blocco 534/1667] quasi vuoto (18/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | # 15990: nikki=n 1=x
+       | 15990|nikki|||||
+       | # 15991: malik=n 3=x
+       | 15991|malik|||||
+       | # 15992: linkin park=ab(band) rule=x
+       | 15992|||||linkin park
+       | # 15993: andrea=n linch=c 19=x
+       | 15993|andrea|linch|||
+       | # 15994: sandra=n 2=x
+       | 15994|sandra|||||
+       | # 15995: adriana=n barajas=c 42=x yahoo=az
+       | 15995|adriana|barajas||yahoo|
+       | # 15996: allie=n machree=c hotmail=az
+       | 15996|allie|machree||hotmail|
+       | # 15997: blondie=ab 97=dt
+       | 15997||||--|blondie
+       | # 15998: khoa=n 0836934974=x
+       | 15998|khoa|||||
+       | # 15999: amber=n b=x
+       | 15999|amber|||||
+       | #
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=298 output=767
+   [i] [Blocco 534/1667] 18/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 534/1667 blocchi completati.
+   [cache] write=0 read=3079 input=303 output=1730
+   [i] [Blocco 535/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 535/1667 blocchi completati.
+   [cache] write=0 read=3079 input=310 output=761
+Progresso: 536/1667 blocchi completati.
+   [cache] write=0 read=3079 input=307 output=784
+   [!] [Blocco 537/1667] quasi vuoto (24/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | # 16080: ryan=n 6891=x
+       | 16080|ryan|||||
+       | # 16081: noni=n 78=x 87=x a=x
+       | 16081|noni|||||
+       | # 16082: 1985=dt i656=x
+       | 16082|||--/--/1985|||
+       | # 16083: kelly=n 7=x l=x
+       | 16083|kelly|||||
+       | # 16084: schwartz=c 13=x
+       | 16084||schwartz||||
+       | # 16085: anne=n ino=x
+       | 16085|anne|||||
+       | # 16086: carolina=n thecrazy=x
+       | 16086|carolina|||||
+       | # 16087: yvette=n hotmail=az 34=x
+       | 16087|yvette|||hotmail||
+       | # 16088: tara=n sayhi=x 0044=x
+       | 16088|tara|||||
+       | # 16089: cinthya=n infante=c(ultimo) karina=ab pullaguari=x
+       | 16089|cinthya|infante|||kar
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=307 output=794
+   [i] [Blocco 537/1667] 22/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 537/1667 blocchi completati.
+   [cache] write=0 read=3079 input=302 output=916
+   [i] [Blocco 538/1667] 12/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 538/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=930
+Progresso: 539/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=875
+   [i] [Blocco 540/1667] 7/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 540/1667 blocchi completati.
+   [cache] write=0 read=3079 input=285 output=776
+   [!] [Blocco 541/1667] quasi vuoto (21/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | # 16200: ebertt=n
+       | 16200|ebertt|||||
+       | # 16201: missy=n deamon=ab sammy=ab2→unica ab: deamon, sammy=x? missy=n deamon=ab sammy=x
+       | 16201|missy||||deamon
+       | # 16202: jesus=n 5795=x
+       | 16202|jesus|||||
+       | # 16203: heather=n earthlink=az
+       | 16203|heather|||earthlink|
+       | # 16204: welzki=n romulo=ab boiro=x
+       | 16204|welzki||||romulo
+       | # 16205: rheymhel=n 04=dt
+       | 16205|rheymhel||--/--/2004|||
+       | # 16206: miska=n 10=x
+       | 16206|miska|||||
+       | # 16207: 23041991=dt
+       | 16207|||23/04/1991|||
+       | # 16208: scrogham=n 16=x
+       | 16208|scrogham|||||
+       | # 16209: j
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=285 output=1058
+Progresso: 541/1667 blocchi completati.
+   [cache] write=0 read=3079 input=311 output=884
+   [i] [Blocco 542/1667] 4/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 542/1667 blocchi completati.
+   [cache] write=0 read=3079 input=303 output=761
+   [i] [Blocco 543/1667] 1/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 543/1667 blocchi completati.
+   [cache] write=0 read=3079 input=279 output=798
+Progresso: 544/1667 blocchi completati.
+   [cache] write=0 read=3079 input=310 output=793
+   [i] [Blocco 545/1667] 2/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 545/1667 blocchi completati.
+   [cache] write=0 read=3079 input=304 output=777
+Progresso: 546/1667 blocchi completati.
+   [cache] write=0 read=3079 input=306 output=964
+Progresso: 547/1667 blocchi completati.
+   [cache] write=0 read=3079 input=271 output=1103
+   [i] [Blocco 548/1667] 13/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 548/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=766
+Progresso: 549/1667 blocchi completati.
+   [cache] write=0 read=3079 input=322 output=780
+Progresso: 550/1667 blocchi completati.
+   [cache] write=0 read=3079 input=309 output=808
+   [!] [Blocco 551/1667] quasi vuoto (18/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | I'll process each password systematically.
+       |
+       | # 16500: takita=n 13=x
+       | 16500|takita|||||
+       | # 16501: natalie=n haciel=ab(loves/teamo) yhaciel=x teamo=x
+       | 16501|natalie||||haciel
+       | # 16502: edwin=n cito=x 6683130=x
+       | 16502|edwin|||||
+       | # 16503: gino=n greenday=x green=x global=x 1=x
+       | 16503|gino|||||
+       | # 16504: brandon=ab meandbrandonforever=x forever=x (no nome principale chiaro)
+       | 16504|||||brandon
+       | # 16505: tyderick=n 09=dt
+       | 16505|tyderick||--/--/2009|||
+       | # 16506: shaun=n zo=x 002044730=x
+       | 16506|shaun|||||
+       | # 16507: pa
+   -> ritento UNA volta.
+   [cache] write=0 read=3079 input=309 output=780
+   [i] [Blocco 551/1667] 18/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 551/1667 blocchi completati.
+   [cache] write=0 read=3079 input=295 output=817
+   [i] [Blocco 552/1667] 3/30 righe non estratte (salvate vuote, si correggono in validazione).
+Progresso: 552/1667 blocchi completati.
+   [cache] write=0 read=3079 input=278 output=744
+Progresso: 553/1667 blocchi completati.
+   [cache] write=0 read=3079 input=312 output=1072
+   [!] [Blocco 554/1667] quasi vuoto (24/30). Output grezzo del modello (primi 500 char) per diagnosi:
+       | # 16590: saul=n 1098765432123456=x(pattern/random)
+       | 16590|saul|||||
+       | # 16591: maprang=n loves=x verymuch=x (ilovemaprangverymuch, nessun cognome, maprang=nome thai)
+       | 16591|maprang|||||
+       | # 16592: cheta=n 87=dt
+       | 16592|cheta||--/--/1987|||
+       | # 16593: anny=n lu=c (email .mx)
+       | 16593|anny|lu||||
+       | # 16594: takasato=c kaname=n 11=dt
+       | 16594|kaname|takasato|--/--/2011|||
+       | # 16595: betito=n 19=dt
+       | 16595|betito||--/--/2019|||
+       | # 16596: zaky=n 15=dt
+       | 16596|zaky||--/--/2015|||
+       | # 16597: correia=c mateus=n 7=x
+       | 16597|mateus|c
+   -> ritento UNA volta.
